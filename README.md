@@ -1,4 +1,4 @@
-# CanEat
+# Carbohydrate
 
 + install mysql & go-lang
 + rebuild databases
